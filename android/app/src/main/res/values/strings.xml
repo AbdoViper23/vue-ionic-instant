@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Instant</string>
+    <string name="title_activity_main">Instant</string>
+    <string name="package_name">com.instant.app</string>
+    <string name="custom_url_scheme">com.instant.app</string>
+</resources>
