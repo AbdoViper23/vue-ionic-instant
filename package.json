@@ -6,7 +6,7 @@
     "dev": "vite",
     "build": "vite build",
     "type-check": "vue-tsc --noEmit",
-    "start": "if [ ! -f dist/index.html ]; then vite build; fi && serve dist -s -l tcp://0.0.0.0:$PORT",
+    "start": "npx vite preview --host 0.0.0.0 --port $PORT",
     "preview": "vite preview",
     "lint": "eslint . --ext .vue,.ts,.tsx --fix"
   },
