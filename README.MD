@@ -17,7 +17,7 @@
 ## Installation
 
 ```sh
-git clone git@github.com:abdelrahmann22/nodejs-instant-api.git
+git clone git@github.com:AbdoViper23/vue-ionic-instant.git
 ```
 
 ```sh
