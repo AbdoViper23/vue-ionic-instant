@@ -6,7 +6,7 @@
 
 **Endpoints** : [Here](https://nodejs-instant-api-production.up.railway.app/api-docs/)
 
-# Database
+# Design
 
 <img src="public/Instant.png" style="border-radius: 10px"/>
 
